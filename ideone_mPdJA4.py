@@ -35,7 +35,7 @@ def suPassword(chall):
 if __name__=='__main__':
     print('Huawei HG8245 su command challenge-password generator by adiaz_32')
     print('Challenge: ')
-    challenge = 'B7Q3YS1E'
+    challenge = '920U4U2Y'
     #if len(challenge)==8:
     suPassword(challenge)
     #else:
